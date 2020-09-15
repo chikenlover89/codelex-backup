@@ -18,6 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -28,7 +29,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600099977547</updated>
-      <workItem from="1600099978775" duration="3632000" />
+      <workItem from="1600099978775" duration="14912000" />
     </task>
     <servers />
   </component>
@@ -36,10 +37,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="203" y="342" width="249" height="163" key="NewPhpFileDialog" timestamp="1600157669924">
+    <state x="377" y="319" width="465" height="568" key="NewPhpClassDialog" timestamp="1600184236220">
+      <screen x="0" y="27" width="3286" height="1173" />
+    </state>
+    <state x="377" y="319" width="465" height="568" key="NewPhpClassDialog/0.27.3286.1173@0.27.3286.1173" timestamp="1600184236220" />
+    <state x="333" y="525" width="249" height="177" key="NewPhpFileDialog" timestamp="1600185170448">
+      <screen x="0" y="27" width="3286" height="1173" />
+    </state>
+    <state x="333" y="525" width="399" height="156" key="NewPhpFileDialog/0.27.3286.1173@0.27.3286.1173" timestamp="1600185170448" />
+    <state x="203" y="342" width="249" height="177" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1600166982383" />
+    <state x="350" y="174" key="run.anything.popup" timestamp="1600165826623">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
-    <state x="333" y="525" width="399" height="156" key="NewPhpFileDialog/0.27.3286.1173@0.27.3286.1173" timestamp="1600100443326" />
-    <state x="203" y="342" width="249" height="163" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1600157669924" />
+    <state x="350" y="174" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1600165826623" />
+    <state x="349" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1600165207444">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="349" y="89" width="672" height="678" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1600165207444" />
   </component>
 </project>
