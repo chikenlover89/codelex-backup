@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0722d572-bfa1-4545-8bd9-ee221d68a5c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hVd1ORHImSu7saCPC0ieaDAnZ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0722d572-bfa1-4545-8bd9-ee221d68a5c6" name="Default Changelist" comment="" />
+      <created>1600099977547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600099977547</updated>
+      <workItem from="1600099978775" duration="3632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="203" y="342" width="249" height="163" key="NewPhpFileDialog" timestamp="1600157669924">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="333" y="525" width="399" height="156" key="NewPhpFileDialog/0.27.3286.1173@0.27.3286.1173" timestamp="1600100443326" />
+    <state x="203" y="342" width="249" height="163" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1600157669924" />
+  </component>
+</project>

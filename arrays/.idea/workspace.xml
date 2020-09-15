@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f23eb518-775b-471c-b9cb-dcfea31e7e69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hSNAsqE24Z8ooUVHfkEaL8R7ar" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f23eb518-775b-471c-b9cb-dcfea31e7e69" name="Default Changelist" comment="" />
+      <created>1600000392961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600000392961</updated>
+      <workItem from="1600000394002" duration="19980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="525" width="399" height="156" key="NewPhpFileDialog" timestamp="1600021109930">
+      <screen x="0" y="27" width="3286" height="1173" />
+    </state>
+    <state x="386" y="525" width="399" height="156" key="NewPhpFileDialog/0.27.3286.1173@0.27.3286.1173" timestamp="1600021109930" />
+    <state x="255" y="275" key="run.anything.popup" timestamp="1600010055251">
+      <screen x="0" y="27" width="3286" height="1173" />
+    </state>
+    <state x="255" y="275" key="run.anything.popup/0.27.3286.1173@0.27.3286.1173" timestamp="1600010055251" />
+  </component>
+</project>
