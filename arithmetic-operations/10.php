@@ -57,7 +57,7 @@ if($choice > 4 || $choice < 1){
     $input = readline("Enter radius : \n");
     echo Geometry::areaOfCircle($input)."\n";
 }elseif($choice == 2){
-    $input1 = readline("Enter length : \n");
+    $input1 = readline("Enter length : \n)
     $input2 = readline("Enter width : \n");
     echo Geometry::areaOfRectangle($input1,$input2)."\n";
 }elseif($choice == 3){

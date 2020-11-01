@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca8ebb4b-fe93-4de5-89a9-0bdcb86dfbf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/03/03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/03/FuelGauge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/03/Odometer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/ElementInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Lizard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/LooseResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Result.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Rock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Scissors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Spock.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/TieResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/WinResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/interface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/interface2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/interface3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/interface4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/interface5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/klasesUzd3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/klasesUzd4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/klasesUzd5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/nodarbiba.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/nodarbiba2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/postGet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/race.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/race2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/uzdKlases.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled/uzdKlases2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arithmetic-operations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-operations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arithmetic-operations/10.php" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-operations/10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flow-of-control/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flow-of-control/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/main.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jhUq409531b1DmEmlPcd17uCxb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/classes-and-objects/03" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca8ebb4b-fe93-4de5-89a9-0bdcb86dfbf6" name="Default Changelist" comment="" />
+      <created>1604256004957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604256004957</updated>
+      <workItem from="1604256006101" duration="1721000" />
+      <workItem from="1604257763470" duration="1789000" />
+      <workItem from="1604259571819" duration="1670000" />
+      <workItem from="1604261811880" duration="1706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="319" width="601" height="568" key="NewPhpClassDialog" timestamp="1604258424850">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="415" y="319" width="601" height="568" key="NewPhpClassDialog/1920.0.1366.768/0.27.1920.1173@0.27.1920.1173" timestamp="1604258424850" />
+    <state x="521" y="525" width="399" height="156" key="NewPhpFileDialog" timestamp="1604262945497">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="521" y="525" width="399" height="156" key="NewPhpFileDialog/1920.0.1366.768/0.27.1920.1173@0.27.1920.1173" timestamp="1604262945497" />
+    <state x="374" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1604262544716">
+      <screen x="0" y="27" width="1920" height="1173" />
+    </state>
+    <state x="374" y="269" width="672" height="678" key="search.everywhere.popup/1920.0.1366.768/0.27.1920.1173@0.27.1920.1173" timestamp="1604262544716" />
+  </component>
+</project>

@@ -2,7 +2,7 @@
 
 error_reporting(E_ALL ^ E_WARNING);
 
-/// 01 uzdevumi
+/// 01 RPSarKlasem
 $newInt = 10;
 $newFloat = 10.10;
 $newString = 'Hello World';
@@ -27,7 +27,7 @@ echo "\n\n";
 
 
 
-/// 02 uzdevumi
+/// 02 RPSarKlasem
 
 //1
 echo "2.1\n";
@@ -111,7 +111,7 @@ echo "\n\n";
 
 
 
-/// 03 uzdevumi
+/// 03 RPSarKlasem
 
 //1
 echo "3.1\n";
@@ -185,7 +185,7 @@ echo "\n\n";
 
 
 
-/// 04 uzdevumi
+/// 04 RPSarKlasem
 
 //1
 echo "4.1\n";
@@ -248,7 +248,7 @@ for($i = 0;$i < count($items[0]); $i++) {
 }
 echo "\n\n";
 
-///05 uzdevumi
+///05 RPSarKlasem
 
 //01
 echo "5.1\n";
