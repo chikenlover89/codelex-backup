@@ -20,47 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca8ebb4b-fe93-4de5-89a9-0bdcb86dfbf6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/01.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/03/03.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/03/FuelGauge.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/03/Odometer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/04.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes-and-objects/05.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/AbstractElement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/ElementInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Lizard.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/LooseResult.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Paper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Result.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Rock.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Scissors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/Spock.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/TieResult.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/WinResult.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/RPSarKlasem/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/interface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/interface2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/interface3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/interface4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/interface5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/klasesUzd3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/klasesUzd4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/klasesUzd5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/nodarbiba.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/nodarbiba2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/postGet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/race.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/race2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/uzdKlases.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/uzdKlases2.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic-operations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-operations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmetic-operations/10.php" beforeDir="false" afterPath="$PROJECT_DIR$/arithmetic-operations/10.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow-of-control/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/flow-of-control/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loops/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes-and-objects/06.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +63,7 @@
       <workItem from="1604257763470" duration="1789000" />
       <workItem from="1604259571819" duration="1670000" />
       <workItem from="1604261811880" duration="1706000" />
+      <workItem from="1604303769809" duration="1400000" />
     </task>
     <servers />
   </component>
@@ -125,10 +87,10 @@
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
     <state x="415" y="319" width="601" height="568" key="NewPhpClassDialog/1920.0.1366.768/0.27.1920.1173@0.27.1920.1173" timestamp="1604258424850" />
-    <state x="521" y="525" width="399" height="156" key="NewPhpFileDialog" timestamp="1604262945497">
+    <state x="521" y="525" width="399" height="156" key="NewPhpFileDialog" timestamp="1604304364492">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
-    <state x="521" y="525" width="399" height="156" key="NewPhpFileDialog/1920.0.1366.768/0.27.1920.1173@0.27.1920.1173" timestamp="1604262945497" />
+    <state x="521" y="525" width="399" height="156" key="NewPhpFileDialog/1920.0.1366.768/0.27.1920.1173@0.27.1920.1173" timestamp="1604304364492" />
     <state x="374" y="269" width="672" height="678" key="search.everywhere.popup" timestamp="1604262544716">
       <screen x="0" y="27" width="1920" height="1173" />
     </state>
